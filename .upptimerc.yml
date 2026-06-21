@@ -15,9 +15,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.mrzsomi.top
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://mrzsomi.top/assets/img/status-favicon.png
   name: MrZsomi Status Page
-  introTitle: "**Mrzsomi's** status page"
+  introTitle: "*Mrzsomi's status page*"
   introMessage: This is my status page where you can see my running apps or servers.
   navbar:
     - title: Status
