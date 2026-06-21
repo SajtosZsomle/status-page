@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.mrzsomi.top
   # baseUrl: /your-repo-name
-  logoUrl: https://mrzsomi.top/assets/img/status-favicon.png
+  logoUrl: https://mrzsomi.top/assets/img/status-favicon-v2.png
   name: MrZsomi Status Page
   introTitle: "**Mrzsomi's status page**"
   introMessage: This is my status page where you can see the current status of my apps and services.
