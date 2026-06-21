@@ -7,8 +7,6 @@ sites:
     url: https://mrzsomi.top
   - name: PVE
     url: https://pve.mrzsomi.top
-  - name: Klipper
-    url: https://klipper.mrzsomi.top
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -17,13 +15,13 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://mrzsomi.top/assets/img/status-favicon.png
   name: MrZsomi Status Page
-  introTitle: "*Mrzsomi's status page*"
-  introMessage: This is my status page where you can see my running apps or servers.
+  introTitle: "**Mrzsomi's status page**"
+  introMessage: This is my status page where you can see the current status of my apps and services.
   navbar:
+    - title: Main Page
+      href: https://mrzsomi.top
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
