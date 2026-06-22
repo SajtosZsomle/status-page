@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pve2.mrzsomi.top.ico",
     "slug": "proxmox-node-2",
     "status": "down",
-    "uptime": "70.35%",
-    "uptimeDay": "70.35%",
-    "uptimeWeek": "70.35%",
-    "uptimeMonth": "70.35%",
-    "uptimeYear": "70.35%",
+    "uptime": "0.19%",
+    "uptimeDay": "0.19%",
+    "uptimeWeek": "0.19%",
+    "uptimeMonth": "0.19%",
+    "uptimeYear": "0.19%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-22": 0
+      "2026-06-22": 207
     }
   }
 ]
