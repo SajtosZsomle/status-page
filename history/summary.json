@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 89,
-    "timeWeek": 107,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "time": 144,
+    "timeDay": 62,
+    "timeWeek": 109,
+    "timeMonth": 144,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pve.mrzsomi.top.ico",
     "slug": "proxmox-node-1",
     "status": "down",
-    "uptime": "62.47%",
-    "uptimeDay": "55.40%",
+    "uptime": "60.03%",
+    "uptimeDay": "24.54%",
     "uptimeWeek": "7.91%",
-    "uptimeMonth": "62.47%",
-    "uptimeYear": "62.47%",
-    "time": 364,
-    "timeDay": 349,
+    "uptimeMonth": "60.03%",
+    "uptimeYear": "60.03%",
+    "time": 350,
+    "timeDay": 39,
     "timeWeek": 144,
-    "timeMonth": 364,
-    "timeYear": 364,
+    "timeMonth": 350,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2026-07-10": 1118,
       "2026-07-09": 1440,
@@ -42,7 +42,8 @@
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 308,
-      "2026-07-11": 0
+      "2026-07-12": 123,
+      "2026-07-11": 964
     }
   },
   {
@@ -51,16 +52,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pve2.mrzsomi.top.ico",
     "slug": "proxmox-node-2",
     "status": "down",
-    "uptime": "61.70%",
-    "uptimeDay": "55.42%",
+    "uptime": "59.30%",
+    "uptimeDay": "24.55%",
     "uptimeWeek": "7.92%",
-    "uptimeMonth": "61.70%",
-    "uptimeYear": "61.70%",
-    "time": 350,
-    "timeDay": 376,
+    "uptimeMonth": "59.30%",
+    "uptimeYear": "59.30%",
+    "time": 337,
+    "timeDay": 38,
     "timeWeek": 157,
-    "timeMonth": 350,
-    "timeYear": 350,
+    "timeMonth": 337,
+    "timeYear": 337,
     "dailyMinutesDown": {
       "2026-06-22": 207,
       "2026-07-10": 1118,
@@ -70,7 +71,9 @@
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
-      "2026-07-03": 307
+      "2026-07-03": 307,
+      "2026-07-12": 123,
+      "2026-07-11": 964
     }
   }
 ]
