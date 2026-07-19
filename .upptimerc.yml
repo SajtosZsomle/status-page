@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://mrzsomi.top/assets/img/status-favicon-v2.png
   name: MrZsomi Status Page
   introTitle: "**Mrzsomi's status page**"
-  introMessage: This is my status page where you can see the current status of my apps and services.
+  introMessage: This is my status page where you can check the current status and availability of my apps and services.
   navbar:
     - title: Main Page
       href: https://mrzsomi.top
