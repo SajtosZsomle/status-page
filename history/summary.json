@@ -40,16 +40,16 @@
     "url": "https://pve.mrzsomi.top",
     "icon": "https://icons.duckduckgo.com/ip3/pve.mrzsomi.top.ico",
     "slug": "proxmox-node-1",
-    "status": "down",
-    "uptime": "67.55%",
-    "uptimeDay": "91.93%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "65.39%",
-    "uptimeYear": "67.55%",
+    "status": "up",
+    "uptime": "67.01%",
+    "uptimeDay": "71.09%",
+    "uptimeWeek": "95.06%",
+    "uptimeMonth": "64.52%",
+    "uptimeYear": "67.01%",
     "time": 382,
-    "timeDay": 204,
-    "timeWeek": 457,
-    "timeMonth": 358,
+    "timeDay": 297,
+    "timeWeek": 452,
+    "timeMonth": 359,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2026-07-10": 1118,
@@ -65,7 +65,7 @@
       "2026-07-12": 1440,
       "2026-07-11": 964,
       "2026-07-24": 116,
-      "2026-07-25": 0
+      "2026-07-25": 382
     }
   },
   {
@@ -73,17 +73,17 @@
     "url": "https://pve2.mrzsomi.top",
     "icon": "https://icons.duckduckgo.com/ip3/pve2.mrzsomi.top.ico",
     "slug": "proxmox-node-2",
-    "status": "down",
-    "uptime": "67.11%",
-    "uptimeDay": "91.96%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "65.39%",
-    "uptimeYear": "67.11%",
-    "time": 385,
-    "timeDay": 200,
-    "timeWeek": 461,
-    "timeMonth": 367,
-    "timeYear": 385,
+    "status": "up",
+    "uptime": "66.57%",
+    "uptimeDay": "71.10%",
+    "uptimeWeek": "95.07%",
+    "uptimeMonth": "64.52%",
+    "uptimeYear": "66.57%",
+    "time": 386,
+    "timeDay": 300,
+    "timeWeek": 459,
+    "timeMonth": 369,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2026-06-22": 207,
       "2026-07-10": 1118,
@@ -99,7 +99,7 @@
       "2026-07-12": 1440,
       "2026-07-11": 964,
       "2026-07-24": 116,
-      "2026-07-25": 0
+      "2026-07-25": 381
     }
   }
 ]
