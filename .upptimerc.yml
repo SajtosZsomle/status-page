@@ -9,8 +9,8 @@ sites:
     url: https://game.mrzsomi.top
   - name: Vladis Bot Website
     url: https://vladis.mrzsomi.top
-  - name: Vladis Bot API
-    url: https://vladisapi.mrzsomi.top/api/config
+  #- name: Vladis Bot API   - nem működik
+  #  url: https://vladisapi.mrzsomi.top/api/config
   - name: Component Inventory
     url: https://inv.mrzsomi.top
   - name: Component Inventory API
