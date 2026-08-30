@@ -7,10 +7,18 @@ sites:
     url: https://mrzsomi.top
   - name: Game Assets Directory
     url: https://game.mrzsomi.top
-  - name: Proxmox Node 1
-    url: https://pve.mrzsomi.top
-  - name: Proxmox Node 2
-    url: https://pve2.mrzsomi.top
+  - name: Vladis Bot Website
+    url: https://vladis.mrzsomi.top
+  - name: Vladis Bot API
+    url: https://vladisapi.mrzsomi.top
+  - name: Component Inventory
+    url: https://inv.mrzsomi.top
+  - name: Component Inventory API
+    url: https://api.inv.mrzsomi.top
+  - name: AutoAI
+    url: https://auto.mrzsomi.top
+  - name: AutoAI API
+    url: https://api.auto.mrzsomi.top
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
