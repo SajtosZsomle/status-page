@@ -2,6 +2,12 @@
 owner: SajtosZsomle # Your GitHub organization or username, where this repository lives
 repo: status-page # The name of this repository
 
+#1<!--
+#start: 2021-02-24T13:00:00+00:00
+#end: 2021-02-24T14:00:00+00:00 #karbantartás, ISO time
+#expectedDown: google, hacker-news
+#-->
+
 sites:
   - name: MrZsomi.top
     url: https://mrzsomi.top
