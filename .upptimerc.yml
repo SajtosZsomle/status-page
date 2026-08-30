@@ -10,15 +10,15 @@ sites:
   - name: Vladis Bot Website
     url: https://vladis.mrzsomi.top
   - name: Vladis Bot API
-    url: https://vladisapi.mrzsomi.top
+    url: https://vladisapi.mrzsomi.top/api/config
   - name: Component Inventory
     url: https://inv.mrzsomi.top
   - name: Component Inventory API
-    url: https://api.inv.mrzsomi.top
+    url: https://api.inv.mrzsomi.top/health
   - name: AutoAI
     url: https://auto.mrzsomi.top
   - name: AutoAI API
-    url: https://api.auto.mrzsomi.top
+    url: https://api.auto.mrzsomi.top/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
