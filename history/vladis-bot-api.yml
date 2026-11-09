@@ -1,7 +1,7 @@
 url: https://vladisapi.mrzsomi.top/api/config
-status: up
-code: 200
-responseTime: 513
-lastUpdated: 2026-11-09T02:22:52.968Z
+status: down
+code: 502
+responseTime: 30530
+lastUpdated: 2026-11-09T09:05:50.273Z
 startTime: 2026-09-26T12:04:40.611Z
 generator: Upptime <https://github.com/upptime/upptime>
