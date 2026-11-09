@@ -58,17 +58,17 @@
     "url": "https://vladisapi.mrzsomi.top/api/config",
     "icon": "https://icons.duckduckgo.com/ip3/vladisapi.mrzsomi.top.ico",
     "slug": "vladis-bot-api",
-    "status": "up",
-    "uptime": "38.55%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "38.85%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "38.55%",
-    "time": 541,
-    "timeDay": 513,
-    "timeWeek": 517,
-    "timeMonth": 570,
-    "timeYear": 541,
+    "uptimeYear": "38.85%",
+    "time": 1166,
+    "timeDay": 15522,
+    "timeWeek": 4269,
+    "timeMonth": 1506,
+    "timeYear": 1166,
     "dailyMinutesDown": {
       "2026-09-26": 725,
       "2026-09-25": 1440,
@@ -97,7 +97,8 @@
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
-      "2026-08-30": 468
+      "2026-08-30": 468,
+      "2026-11-09": 0
     }
   },
   {
