@@ -59,13 +59,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/vladisapi.mrzsomi.top.ico",
     "slug": "vladis-bot-api",
     "status": "down",
-    "uptime": "38.12%",
-    "uptimeDay": "14.97%",
-    "uptimeWeek": "87.85%",
-    "uptimeMonth": "97.20%",
-    "uptimeYear": "38.12%",
+    "uptime": "37.52%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "77.72%",
+    "uptimeMonth": "94.87%",
+    "uptimeYear": "37.52%",
     "time": 1766,
-    "timeDay": 30547,
+    "timeDay": 30564,
     "timeWeek": 8036,
     "timeMonth": 2444,
     "timeYear": 1766,
@@ -98,7 +98,7 @@
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 468,
-      "2026-11-10": 330,
+      "2026-11-10": 1352,
       "2026-11-09": 894
     }
   },
@@ -161,17 +161,19 @@
     "url": "https://api.auto.mrzsomi.top/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.auto.mrzsomi.top.ico",
     "slug": "auto-ai-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 524,
-    "timeDay": 664,
-    "timeWeek": 568,
-    "timeMonth": 553,
-    "timeYear": 524,
-    "dailyMinutesDown": {}
+    "time": 565,
+    "timeDay": 2180,
+    "timeWeek": 959,
+    "timeMonth": 652,
+    "timeYear": 565,
+    "dailyMinutesDown": {
+      "2026-11-10": 0
+    }
   }
 ]
